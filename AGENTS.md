@@ -151,3 +151,11 @@ version, so use synthetic input.
   interpolation goes through `shellQuote` or explicit quoting. Keep it that way.
 - After editing, run `omarchy plugin validate` and restart the shell, then
   confirm in the log rather than assuming.
+## Repository workflow
+
+This plugin lives in its own private GitHub repository
+(`joschariedl/derfleischmann.screensaver-dim`). Any change made here must be committed, pushed to that
+repository, and merged into the default branch (`main`) automatically — do
+not leave changes uncommitted or only local. Commit with a clear message, push
+the branch, and merge (fast-forward when possible) so the repository stays in
+sync with this working copy.
