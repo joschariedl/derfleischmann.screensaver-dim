@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "derfleischmann.screensaver-dim",
   "name": "Screensaver Dim",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "derfleischmann",
   "description": "Dims displays to 1% while the Omarchy screensaver is running and restores the previous brightness when it closes.",
   "kinds": [
