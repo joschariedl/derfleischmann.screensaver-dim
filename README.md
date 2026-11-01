@@ -9,6 +9,8 @@ background. An OLED at full brightness next to a big glowing animation wastes
 power and glows through the night; at 1% the animation is still visible and the
 panel is effectively off.
 
+![Screenshot](screenshot.png)
+
 ## Files
 
 | File | Purpose |
