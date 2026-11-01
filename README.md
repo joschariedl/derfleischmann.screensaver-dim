@@ -3,9 +3,11 @@
 A headless Omarchy shell plugin that dims your displays to 1% while the Omarchy
 screensaver is running, then puts the previous brightness back when it closes.
 
-The screensaver is a terminal window rendering a live clock. An OLED at full
-brightness next to a big clock wastes power and glows through the night; at 1%
-the clock is still readable and the panel is effectively off.
+The screensaver is a terminal window running `ttfx` (Terminal Text Effects),
+animating the Omarchy branding (an ASCII logo) with random effects on a black
+background. An OLED at full brightness next to a big glowing animation wastes
+power and glows through the night; at 1% the animation is still visible and the
+panel is effectively off.
 
 ## Files
 
